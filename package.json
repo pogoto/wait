@@ -1,0 +1,27 @@
+{
+  "name": "wait",
+  "version": "1.0.0",
+  "description": "This is a general wait",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pogoto/wait.git"
+  },
+  "keywords": [
+    "wait"
+  ],
+  "author": "John Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pogoto/wait/issues"
+  },
+  "homepage": "https://github.com/pogoto/wait#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^2.2.0",
+    "eslint": "^6.1.0"
+  }
+}
