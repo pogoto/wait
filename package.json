@@ -4,7 +4,7 @@
   "description": "This is a general wait",
   "main": "index.js",
   "scripts": {
-    "test": "ava test -v"
+    "test": "ava -v"
   },
   "repository": {
     "type": "git",
